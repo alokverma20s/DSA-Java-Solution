@@ -3,7 +3,7 @@ package com.alokverma20s.leetcode.easy;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FindAllNumbersDisappearedinanArray {
+public class FindAllNumbersDisappearedInAnArray {
     List<Integer> findAllNumbersDisappeared(int[] nums) {
         int n = nums.length;
 
